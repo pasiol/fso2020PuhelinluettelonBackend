@@ -1,0 +1,20 @@
+{
+  "name": "puhelinluettelon-backend",
+  "version": "1.0.0",
+  "description": "tehtävä 3.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
